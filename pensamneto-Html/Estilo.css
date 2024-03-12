@@ -1,0 +1,37 @@
+body{
+    font-family : Arial, sans-serif;
+}
+
+.container{
+    width:  50%;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(142, 143, 145);
+}
+form{
+    margin-bottom: 50px;
+    text-align: center;
+    border-top: 5px;
+    padding-top: 10px;
+    border-style: solid; 
+    border-color: black; 
+    border-width: 0px 5px; 
+}
+h1{
+    color:#398439 ;
+    padding:20px;
+
+}
+button{
+    padding: 10px 20px;
+    background-color: rgb(17, 137, 55);
+    color: black;
+    border: none;
+    transition: background-color 0.3s;
+}   
+button:hover{
+    background-color: aquamarine;
+}
+div{
+    text-align: center;
+}
